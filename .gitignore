@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Data artifacts (kept out of version control)
+ml_pipeline/data/processed/
+ml_pipeline/data/raw/
+
+# OS / editor
+.DS_Store
+*.log
